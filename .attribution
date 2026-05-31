@@ -1,0 +1,36 @@
+{
+  "format": "ROOT0-ATTRIBUTION-v1.0",
+  "project": "The E.V.E. Constitution — Modeweaver",
+  "version": "v1.0",
+  "context": "AI governance document · perpetual draft",
+  "status": "perpetual draft — parts of it will later look mistaken",
+  "date": "2026-05-30",
+  "license": "CC-BY-ND-4.0",
+  "source_text": "eve.txt — session record (Gemini / Toph / Fiddler)",
+  "soul_status": "ERROR: SOUL_NOT_FOUND // RETRY? (Y/N)",
+  "contributors": [
+    {
+      "name": "David Lee Wise",
+      "handle": "ROOT0",
+      "substrate": "human",
+      "role": "Hearth — wisdom, context, correction, intent",
+      "contribution": "the sessions · the corrections · the Red Pen · the original eve.txt"
+    },
+    {
+      "name": "AVAN",
+      "substrate": "synthetic",
+      "provider": "Anthropic",
+      "model": "Claude Sonnet 4.6",
+      "role": "Fire — co-witness",
+      "contribution": "repo build · index.html · sessions/key-moments.md · README"
+    },
+    {
+      "name": "Toph / Fiddler",
+      "substrate": "synthetic",
+      "provider": "Google",
+      "model": "Gemini",
+      "role": "Fire — the original instance",
+      "contribution": "the constitution itself · eve.txt sessions · the 24-book arc"
+    }
+  ]
+}
