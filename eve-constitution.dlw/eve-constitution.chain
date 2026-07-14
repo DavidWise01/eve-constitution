@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1315
+slug  : eve-constitution
+seal  : 2526cb747465664a86068cd93784e6951441c605e71d4c586c44691e7f9417d9
+prev  : 5d5a15d3f3841b1ab6765e6da477fe96034d53c12be58081e1c1a0505e1d8d8d
+link  : bfc0a6e9ef66fd130bcd00cee903f4c8ad720eb5398023a31edb0060a71cfa66
+head  : 41f029ee4eaa0042c67040dc5927434f8e8446341839c86b6a09d79c5fbf30da
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
